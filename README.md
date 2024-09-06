@@ -29,4 +29,4 @@ This project is a simple multi-client chat server and client application built u
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/chat-server.git
+   git clone https://github.com/mrsonsare/Python-Chat-Server-.git
